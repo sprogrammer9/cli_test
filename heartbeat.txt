@@ -1,0 +1,10 @@
+
+ name: 
+ type: http
+ mode: any
+ id: 
+ enabled: true
+ schedule: 
+ hosts: 
+ ipv4: true
+ ipv6: true
